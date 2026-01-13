@@ -1,0 +1,2 @@
+# This file ensures the uploads directory is tracked by git
+# Upload subdirectories will be created automatically by the application
